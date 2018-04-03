@@ -401,3 +401,6 @@ Learn helpful tips, tutorials and insights from these people :)
 [![Creative Commons Attribution 4.0 International](https://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
 
 Awesome Competitive Programming is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+
+<p><b><large>NOTE:-</large>The best way to learn is follow your passion and do everything to make it possible :)</b>
+  <p><b>Good luck, Happy Coding</b></p>
